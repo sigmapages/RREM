@@ -69,3 +69,15 @@ Status
 This is an initial proposal. Its definitions, assumptions, examples, and procedures may be revised as the method is further developed and evaluated.
 
 Publication dates and version records should reflect actual events and must not be backdated.
+
+License
+
+The written documentation and specification of the Relational Reduction Estimation Method (RREM) are licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0) license.
+
+Copyright © 2026 Sigmapages
+
+License: https://creativecommons.org/licenses/by/4.0/
+
+When sharing or adapting this material, provide appropriate attribution, link to the license, and indicate whether changes were made.
+
+Unless explicitly stated otherwise, this license applies to the documentation and specification, not necessarily to third-party materials or future software implementations.
