@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use or refer to this work, please cite the specific version or release."
+title: "Relational Reduction Estimation Method (RREM): Specification"
+type: generic
+authors:
+
+- name: "[YOUR PSEUDONYM]"
+  version: "1.0"
+  date-released: "2026-10-12"
+  abstract: >-
+  A proposed method for constructing a simple representative numerical model
+  from known relationships and constraints, then using that model to estimate
+  relative quantities when quantitative information is incomplete.
